@@ -9,3 +9,6 @@ The challenge consisted on creating a docker container image for a Go applicatio
 ```
 docker run luizlahr/fullcycle
 ```
+
+## Docker Hub Image
+`luizlahr/fullcycle`
