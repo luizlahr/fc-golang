@@ -1,4 +1,4 @@
-# Desafio GoLang Docker Container
+# GoLang Docker Container Challenge
 
 Challenge presented during the Full Cycle Course (Docker Module)
 
